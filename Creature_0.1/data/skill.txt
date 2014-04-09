@@ -1,0 +1,6 @@
+#ATTAQUES
+#id,nom, id_element,power,precision, costPE
+
+0 undefined 0 0 0 0
+1 charge 1 5 80 5
+2 lance-flamme 2 25 70 15
